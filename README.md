@@ -1,1 +1,1 @@
-Added the local repo to gitbub from local machine
+Added the local repo to github from local machine
